@@ -6,5 +6,3 @@ This repository contains a test project example of using QuiuiTool.
 Hamilton.TestFramework.QuiuiTool
 # QuiuiTool Channel
 Watch videos about QuiuiTool at http://bit.do/QuiuiTool
-# QuiuiTool Author
-QuiuiTool is free. Created by Hamilton Marques. Meet Hamilton at http://bit.do/HamiltonLinkedin
